@@ -19,7 +19,7 @@
 
 
 # 平台账号
-![bilibili-和平peaceful](https://img.shields.io/badge/bilibili-%E5%92%8C%E5%B9%B3peacefuk-pink)<br>
+![bilibili-和平peaceful](https://img.shields.io/badge/bilibili-%E5%92%8C%E5%B9%B3peaceful-pink)<br>
 [bilibili](https://space.bilibili.com/2025948439)<br>
 ![西瓜视频-和平peaceful](https://img.shields.io/badge/%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91-%E5%92%8C%E5%B9%B3peaceful-red)<br>
 [西瓜视频](https://www.ixigua.com/home/1003192263117373)<br>
