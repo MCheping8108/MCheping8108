@@ -10,6 +10,9 @@
 
 ![MCheping8108's Top Langs](https://readme.peacefuly.top/api/top-langs/?username=MCheping8108&layout=compact)
 
+# 语言倾向
+![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48)
+
 # 平台账号
 ![bilibili-和平peaceful](https://img.shields.io/badge/bilibili-%E5%92%8C%E5%B9%B3peaceful-pink)<br>
 [bilibili](https://space.bilibili.com/2025948439)<br>
