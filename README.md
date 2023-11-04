@@ -12,6 +12,8 @@
 
 ![MCheping8108's Top Langs](https://readme.peacefuly.top/api/top-langs/?username=MCheping8108&layout=compact)
 
+<figure><embed src="https://wakatime.com/share/@018b94f0-471c-4f2f-a9af-9e465a67501a/533bd8f0-098a-49e9-9e87-bcac8100dd40.svg"></embed></figure>
+
 <br>
 
 # 📕语言倾向 & 正在学习
