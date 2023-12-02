@@ -1,0 +1,10 @@
+{
+  "name": "mcheping8108",
+  "version": "1.0.0",
+  "description": "README",
+  "scripts": {
+    "push": "git add . && git commit -m 'update' && git push"
+  },
+  "author": "",
+  "license": "ISC"
+}
