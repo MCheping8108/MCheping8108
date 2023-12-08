@@ -1,10 +1,10 @@
 # 👋HELLO WORLD!
 
-*死亡不属于工人阶级*
+*历史的发展是不以人的意志为转移的。*
 
-*Death does not belong to the working class*
+*The development of history is not subject to the will of man.*
 
--- 弗拉基米尔·伊里奇·列宁
+--毛泽东 Mao Zedong
 <br>
 
 # 🔍代码统计
