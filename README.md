@@ -1,10 +1,10 @@
 # 👋HELLO WORLD!
 
-*浪费别人的时间等于谋财害命，浪费自己的时间等于慢性自杀*
+*无产阶级在这个革命中失去的只是锁链，他获得的将是整个世界。*
 
-*Wasting other people's time is tantamount to murder, wasting your own time is tantamount to chronic suicide.*
+*What the proletariat loses in this revolution are only chains; what he gains will be the whole world.*
 
---弗拉基米尔·伊里奇·列宁 Vladimir Ilyich Lenin
+--共产党宣言 "Manifest der Kommunistischen Partei" by Marx and Engels (1848)
 <br>
 
 # 🔍代码统计

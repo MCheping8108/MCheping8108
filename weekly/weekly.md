@@ -21,3 +21,11 @@
 
 --毛泽东 Mao Zedong
 ```
+
+```
+*浪费别人的时间等于谋财害命，浪费自己的时间等于慢性自杀*
+
+*Wasting other people's time is tantamount to murder, wasting your own time is tantamount to chronic suicide.*
+
+--弗拉基米尔·伊里奇·列宁 Vladimir Ilyich Lenin
+```
