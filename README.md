@@ -11,7 +11,7 @@
 
 ![MCheping8108's GitHub stats](https://readme.peacefuly.top/api?username=MCheping8108&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<figure><embed src="https://wakatime.com/share/@peaceful/093c4469-a8b1-4daa-9e02-175424a56de2.svg"></embed></figure>
+![WakaTime](https://wakatime.com/share/@peaceful/093c4469-a8b1-4daa-9e02-175424a56de2.svg)
 
 [![MCheping8108's WakaTime](https://wakatime.com/share/@018b94f0-471c-4f2f-a9af-9e465a67501a/5a627a61-81bd-46c4-9c9d-1f39724d29b5.png)](https://wakatime.com)
 
