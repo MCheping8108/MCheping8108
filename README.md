@@ -7,6 +7,14 @@
 --共产党宣言 "Manifest der Kommunistischen Partei" by Marx and Engels (1848)
 <br>
 
+# 📕语言倾向 & 正在学习
+![lang icon](https://skillicons.dev/icons?i=vue,py,html,css,js,java,md,ts,scss)
+
+<br>
+
+# 🔧工具
+![tools icon](https://skillicons.dev/icons?i=vscode,vim,nodejs,ps)
+
 # 🔍代码统计
 
 ![MCheping8108's GitHub stats](https://readme.peacefuly.top/api?username=MCheping8108&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
@@ -17,15 +25,7 @@
 
 [![MCheping8108's Codeium](https://codeium.com/profile/mcheping8108/card.png)](https://codeium.com)
 
-<br>
 
-# 📕语言倾向 & 正在学习
-![lang icon](https://skillicons.dev/icons?i=vue,py,html,css,js,java,md,ts,scss)
-
-<br>
-
-# 🔧工具
-![tools icon](https://skillicons.dev/icons?i=vscode,vim,nodejs,ps)
 
 <br>
 <br>
