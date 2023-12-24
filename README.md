@@ -10,10 +10,11 @@
 # 📕语言倾向 & 正在学习
 ![lang icon](https://skillicons.dev/icons?i=vue,py,html,css,js,java,md,ts,scss)
 
-<br>
 
 # 🔧工具
 ![tools icon](https://skillicons.dev/icons?i=vscode,vim,nodejs,ps)
+
+<br>
 
 # 🔍代码统计
 
@@ -27,7 +28,6 @@
 
 
 
-<br>
 <br>
 
 # 🌏平台账号
