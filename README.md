@@ -1,10 +1,10 @@
 # 👋HELLO WORLD!
 
-*无产阶级在这个革命中失去的只是锁链，他获得的将是整个世界。*
+*🎇新年快乐！🎇*
 
-*What the proletariat loses in this revolution are only chains; what he gains will be the whole world.*
+*🎇happy new year!🎇*
 
---共产党宣言 "Manifest der Kommunistischen Partei" by Marx and Engels (1848)
+
 <br>
 
 # 📕语言倾向 & 正在学习
