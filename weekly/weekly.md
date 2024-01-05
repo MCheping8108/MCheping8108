@@ -29,11 +29,3 @@
 
 --弗拉基米尔·伊里奇·列宁 Vladimir Ilyich Lenin
 ```
-
-```
-*无产阶级在这个革命中失去的只是锁链，他获得的将是整个世界。*
-
-*What the proletariat loses in this revolution are only chains; what he gains will be the whole world.*
-
---共产党宣言 "Manifest der Kommunistischen Partei" by Marx and Engels (1848)
-```
