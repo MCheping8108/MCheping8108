@@ -1,10 +1,10 @@
 # 👋HELLO WORLD!
 
-*🎇新年快乐！🎇*
+*世界是你们的，也是我们的，但归根结底还是你们的*
 
-*🎇happy new year!🎇*
+*The world is you, is also our, but at the end of the day or you*
 
-
+-- 毛泽东 Mao Zedong
 <br>
 
 # 📕语言倾向 & 正在学习
