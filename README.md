@@ -12,7 +12,7 @@
 
 
 # 🔧工具
-![tools icon](https://skillicons.dev/icons?i=vscode,vim,nodejs,ps)
+![tools icon](https://skillicons.dev/icons?i=vscode,vim,nodejs,ps,tauri,vercel,netlify,idea)
 
 <br>
 
