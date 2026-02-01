@@ -2,7 +2,7 @@
 
 *世界是你们的，也是我们的，但归根结底还是你们的*
 
-*The world is you, is also our, but at the end of the day or you*
+*The world belongs to you, it also belongs to us, but in the last analysis, it belongs to you.*
 
 -- 毛泽东 Mao Zedong
 <br>
