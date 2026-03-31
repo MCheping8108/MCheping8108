@@ -8,7 +8,7 @@
 <br>
 
 # 📕语言倾向 & 正在学习/Languages & Learning
-![lang icon](https://skillicons.dev/icons?i=vue,py,html,css,js,java,md,ts,scss)
+![lang icon](https://skillicons.dev/icons?i=vue,py,html,css,js,java,md,ts,scss,react)
 
 
 # 🔧工具/Tools
